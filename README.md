@@ -1,2 +1,2 @@
 # ramdemi.github.io
-pages için
+pages için rec branch oluşturuldu.
